@@ -10,7 +10,7 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
 2. code folder has the web code of this project.
 3. Report folder contains the final group report and the Preparation Report that wroted in the project's early-age.
 4. Sketch folder includes the tableau sketch and the sketch in paper documents.
-项目文档内容
+### 项目文档内容
 1. recoding.mp4是本项目的展示视频。
 2. code文件夹中有本项目的网页代码。
 3. Report文件夹中包含了本项目前期编写的最终小组报告和准备报告。
