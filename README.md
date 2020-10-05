@@ -11,7 +11,7 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
 3. Data source folder has the data that used in this project and the origin data without data cleaning.
 4. Report folder contains the final group report and the Preparation Report that wroted in the project's early-age.
 5. Sketch folder includes the tableau sketch and the sketch in paper documents.
-
+项目文档内容
 1. recoding.mp4是本项目的展示视频。
 2. code文件夹中有本项目的网页代码。
 3. Data source文件夹中包含了本项目中使用的数据和未经数据清洗的原始数据。
@@ -37,6 +37,7 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
 
 2. For running webserver locally：
 	MAMP : to open local webserver.
+项目运行要求
 1. 火狐浏览器
 
 2. 在本地运行webserver：MAMP：打开本地网络服务器。
@@ -49,7 +50,7 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
   4. Open the visualisation files from the browser using the following address:
 	localhost/html_code/index.html (for windows)
 	localhost:8888/html_code/index.html (for Mac)
-  
+如何访问项目网站
 1. 从URL地址访问：https://cd243.host.cs.st-andrews.ac.uk/P3/html_code/index.html。
 2. 在本地运行
   1. 下载并安装MAMP
