@@ -57,3 +57,6 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
   4. 使用以下地址从浏览器打开可视化文件。
 	本地主机/html_code/index.html (windows)。
 	localhost:8888/html_code/index.html (for Mac)
+## backup address 备份地址（若有文件无法正常打开）
+链接: https://pan.baidu.com/s/1upLJZ_UrTwiDd5xuLDzC_g 提取码: mjf7 复制这段内容后打开百度网盘手机App，操作更方便哦 
+
