@@ -8,15 +8,13 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
 ## Content
 1. recoding.mp4 is the video presentation record for this project.
 2. code folder has the web code of this project.
-3. Data source folder has the data that used in this project and the origin data without data cleaning.
-4. Report folder contains the final group report and the Preparation Report that wroted in the project's early-age.
-5. Sketch folder includes the tableau sketch and the sketch in paper documents.
+3. Report folder contains the final group report and the Preparation Report that wroted in the project's early-age.
+4. Sketch folder includes the tableau sketch and the sketch in paper documents.
 项目文档内容
 1. recoding.mp4是本项目的展示视频。
 2. code文件夹中有本项目的网页代码。
-3. Data source文件夹中包含了本项目中使用的数据和未经数据清洗的原始数据。
-4. Report文件夹中包含了本项目前期编写的最终小组报告和准备报告。
-5. Sketch文件夹中包含了Tableau草图和纸质文档中的草图。
+3. Report文件夹中包含了本项目前期编写的最终小组报告和准备报告。
+4. Sketch文件夹中包含了Tableau草图和纸质文档中的草图。
 
 #### the code folder of this project includes five files:  
 1. data_cleaned5044.csv : The data source. 数据源。
