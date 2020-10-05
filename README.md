@@ -18,30 +18,30 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
 4. Report文件夹中包含了本项目前期编写的最终小组报告和准备报告。
 5. Sketch文件夹中包含了Tableau草图和纸质文档中的草图。
 
-####the code folder of this project includes five files:  
+#### the code folder of this project includes five files:  
 1. data_cleaned5044.csv : The data source. 数据源。
 2. index.css: The css style sheet of index.html.
 3. index.html: The html webpage of this visualizsation which includes javascript code.
 4. map.js: The functions of the Choropleth Map.
 5. us-states.js: The geojson of Us-states which used to draw the Choropleth Map.
 
-本项目code文件夹包括五个文件。
+#### 本项目code文件夹包括五个文件。
 1. data_cleaned5044.csv：数据源。
 2. index.css：index.html的css样式表。index.html的css样式表。
 3. index.html。该可视化项目的html网页，包含javascript代码。
 4. map.js：地图的功能。
 5. us-states.js：用于绘制Choropleth Map的美国各州的geojson。
 
-## Requirement
+#### Requirement
 1. Firefox broswer
 
 2. For running webserver locally：
 	MAMP : to open local webserver.
-项目运行要求
+#### 项目运行要求
 1. 火狐浏览器
 
 2. 在本地运行webserver：MAMP：打开本地网络服务器。
-## How To Start
+#### How To Start
 1. Serving WebContent from URL address： https://cd243.host.cs.st-andrews.ac.uk/P3/html_code/index.html
 2. Run the web visualization locally
   1. Download and install MAMP
@@ -50,7 +50,7 @@ This project is in D3.js and leaflet.js which focuses on the US Gun Incidents da
   4. Open the visualisation files from the browser using the following address:
 	localhost/html_code/index.html (for windows)
 	localhost:8888/html_code/index.html (for Mac)
-如何访问项目网站
+#### 如何访问项目网站
 1. 从URL地址访问：https://cd243.host.cs.st-andrews.ac.uk/P3/html_code/index.html。
 2. 在本地运行
   1. 下载并安装MAMP
